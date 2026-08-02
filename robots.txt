@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-p2i8s3.ajaib884bri.cfd/sitemap.xml
